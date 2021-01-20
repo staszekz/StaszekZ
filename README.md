@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am eager to work Junior Front-End Developer. Looking for my first comercial job :) 
+I am Junior Front-End Developer. Looking for my first commercial job :) 
 
 Here are some ideas to get you started:
 
