@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## Stats: <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/><br/>
+<br/>
 ## Languages: <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszekz)](https://github.com/anuraghazra/github-readme-stats)
 
