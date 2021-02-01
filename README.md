@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website for a friend
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: www.staszek.ovh
+- 📫 Website: www.staszek.ovh
 
 
 ### Tech Stack: <br/>
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <br/> <br/>
 
 ## Stats: <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+<br/><br/>
 ## Languages: <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszekz)](https://github.com/anuraghazra/github-readme-stats)
 
