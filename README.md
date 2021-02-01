@@ -29,4 +29,4 @@ You can reach me here: <br/>
 
 
 Stats: <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
