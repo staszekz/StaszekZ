@@ -25,13 +25,14 @@ Here are some ideas to get you started:
 <br/>
 
 ### You can reach me here: <br/>
-<a href="https://www.linkedin.com/in/s-zajaczkowski/" target="_blank"> <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/s-zajaczkowski/" target="_blank"> <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+<a href="mailto:staszek.zajaczkowski@gmail.com"><img align="left" alt="gmail address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <br/> <br/>
 
 ## Stats: <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+<br/><br/>
 ## Languages: <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszekz)](https://github.com/anuraghazra/github-readme-stats)
 
