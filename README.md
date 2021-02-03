@@ -1,9 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
 
-I am Junior Front-End Developer. Looking for my first commercial job :) 
+I am Junior Front-End Developer with a PhD. Looking for my first commercial job :) 
 
-
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/staszekz?tab=repositories)
 
 Here are some ideas to get you started:
 
