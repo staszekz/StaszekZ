@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there 👋
 
 I am Junior Front-End Developer. Looking for my first commercial job :) 
 
