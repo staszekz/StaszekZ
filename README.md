@@ -6,7 +6,7 @@ I am Junior Front-End Developer with a PhD. Looking for my first commercial job 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website for a friend
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently still learning hard to improve my skills
 - :globe_with_meridians: Website: www.staszek.ovh
 
 
