@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 
-### :music: Spotify Playing 
+### :headphones: Spotify Playing now:
 
 [<img src="https://novatorem-psi-gold.vercel.app/api/spotify" alt="spotify playing live" width="300" />](https://open.spotify.com/user/d3s1nd7ln342onqk86kv95dgx)
 
