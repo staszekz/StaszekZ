@@ -38,6 +38,11 @@ Here are some ideas to get you started:
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 
+[![Spotify](https://novatorem.staszekz.vercel.app/api/spotify)](https://open.spotify.com/user/d3s1nd7ln342onqk86kv95dgx)
+
+
+
+
 ## :fire: Stats: <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
