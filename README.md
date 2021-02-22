@@ -1,12 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
 
-I am Junior Front-End Developer with a PhD. Looking for my first commercial job :) 
+I am Junior Front-End Developer with a PhD :) 
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website for a friend
-- 🌱 I’m currently still learning hard to improve my skills
+- 🌱 I’m currently still learning GatsbyJS with GraphQL
 - :globe_with_meridians: Website: www.staszek.ovh
 
 
