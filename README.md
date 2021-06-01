@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <a href="mailto:staszek.zajaczkowski@gmail.com"><img align="left" alt="gmail address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 <br/> <br/>
-  <a href="https://www.buymeacoffee.com/staszek" target="_blank" rel="noreferrer nofollow">
+<!--   <a href="https://www.buymeacoffee.com/staszek" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+    </a> -->
 
 ### :headphones: Spotify Playing now:
 
