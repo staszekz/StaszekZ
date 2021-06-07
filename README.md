@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 
 ## :fire: Stats: <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszek-z&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 ## :fire: Languages: <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszekz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszek-z)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
