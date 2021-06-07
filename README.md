@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### :mortar_board: I am learning: <br/>
 
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+<!-- <img align="left" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /> -->
 <br/>
 <br/>
 
