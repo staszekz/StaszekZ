@@ -5,8 +5,8 @@ I am Junior Front-End Developer with a PhD :)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a website for a friend
-- 🌱 I’m currently still learning GatsbyJS with GraphQL
+- 🔭 I’m currently working on an enterosoft.com project
+- 🌱 I’m currently learning Typescript and NextJS.
 - :globe_with_meridians: Website: www.staszek.ovh
 
 
