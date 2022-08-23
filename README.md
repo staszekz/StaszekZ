@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master.devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
+<a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master/devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
 
 <br/>
 
