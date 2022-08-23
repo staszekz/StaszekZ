@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
 
 I am Front-End Developer with a PhD :) 
-
+<a href="https://app.daily.dev/Staszek"><img src="https://api.daily.dev/devcards/f7ae9f8e74ef49519530437bc767d682.png?r=q00" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
