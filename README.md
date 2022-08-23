@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
 
-I am Front-End Developer with a PhD :) 
+I am Front-End Developer with a PhD :)  <a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master/devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
 
 
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master/devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
+
 
 <br/>
 
