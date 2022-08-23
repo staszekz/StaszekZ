@@ -1,7 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
 
-I am Front-End Developer with a PhD :)  <a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master/devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
-
+I am Front-End Developer with a PhD :)  
 
 
 Here are some ideas to get you started:
@@ -52,12 +51,13 @@ Here are some ideas to get you started:
 
 ## :fire: Stats: <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+## 🔥 DevCard: <br/>
+<a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master/devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
 
 <br/><br/>
 ## :fire: Languages: <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszekz)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/>
 
 
 
