@@ -54,12 +54,9 @@ Here are some ideas to get you started:
 <br/><br/>
 ## 🔥 DevCard: <br/>
 <a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master/devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
-
 <br/><br/>
 ## :fire: Languages: <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszekz)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<br/>
+<hr/>
 
