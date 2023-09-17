@@ -6,7 +6,7 @@ I am Front-End Developer with a PhD :)
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Typescript and tests.
+- 🌱 I’m currently continue learning Typescript and tests.
 - :globe_with_meridians: Website: www.staszek.ovh
 
 
