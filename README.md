@@ -1,13 +1,26 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
 
-I am React Front-End Developer with a PhD :)  
+🚀 Passionate React Developer | TypeScript Enthusiast
 
+👋 Hey there! I'm Stanislaw Zajaczkowski, a React Developer, specializing in building scalable and interactive web applications with TypeScript and React. :globe_with_meridians: Website: www.staszek.ovh
 
-Here are some ideas to get you started:
+🔧 Technologies: React, TypeScript, Redux, Cypress, Next.js, JavaScript, HTML, CSS
 
+🌱 Currently Learning: Delving deeper into TypeScript and React, exploring advanced concepts for optimized application development. Also sharpening my testing prowess with Cypress.
 
-- 🌱 I’m currently continue learning Typescript and tests.
-- :globe_with_meridians: Website: www.staszek.ovh
+🤝 Collaboration: Proven track record of driving team synergy and productivity through cross-functional collaboration in agile environments.
+
+⚡ Highlights:
+
+Implemented state-of-the-art front-end solutions exceeding strategic objectives, enhancing user experience and client satisfaction.
+Expertise in Redux for efficient state management and application performance.
+Proficient in Git for streamlined collaboration and version control.
+Strong advocate for clean code and seamless integration with back-end systems.
+📚 Interests: Apart from coding, I indulge in sci-fi literature, captivating TV series, and staying fit with a regular gym routine.
+
+💬 Languages: English, Polish
+
+🔗 Connect: Reach out on <a href="https://www.linkedin.com/in/s-zajaczkowski/" target="_blank" rel="noreferrer nofollow"> <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  or explore my projects on GitHub.
 
 
 ### :fire: Tech Stack: <br/>
@@ -26,25 +39,12 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-### :mortar_board: I am learning: <br/>
 
-<img align="left" alt="tests" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img align="left" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<br/>
-<br/>
 
 ### :mailbox: You can reach me here: <br/>
-<a href="https://www.linkedin.com/in/s-zajaczkowski/" target="_blank" rel="noreferrer nofollow"> <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 <a href="mailto:staszek.zajaczkowski@gmail.com"><img align="left" alt="gmail address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 <br/> <br/>
-<!--   <a href="https://www.buymeacoffee.com/staszek" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a> -->
-
-<!-- ### :headphones: Apple Music Playing now:-->
-
-
 
 
 
