@@ -1,24 +1,32 @@
-🚀 Passionate React Developer | TypeScript Enthusiast
+## 🚀 Passionate React Developer | TypeScript Enthusiast
 
 👋 Hey there! I'm Stanislaw Zajaczkowski, a React Developer, specializing in building scalable and interactive web applications with TypeScript and React. :globe_with_meridians: Website: www.staszek.ovh
 
-🔧 Technologies: React, TypeScript, Redux, Cypress, Next.js, JavaScript, HTML, CSS
+### 🔧 Technologies: 
+React, TypeScript, Redux, Cypress, Next.js, JavaScript, HTML, CSS
 
-🌱 Currently Learning: Delving deeper into TypeScript and React, exploring advanced concepts for optimized application development. Also sharpening my testing prowess with Cypress.
+### 🌱 Currently Learning: 
+Delving deeper into TypeScript and React, exploring advanced concepts for optimized application development. Also sharpening my testing prowess with Cypress.
 
-🤝 Collaboration: Proven track record of driving team synergy and productivity through cross-functional collaboration in agile environments.
+### 🤝 Collaboration: 
+Proven track record of driving team synergy and productivity through cross-functional collaboration in agile environments.
 
-⚡ Highlights:
+## ⚡ Highlights:
 
-Implemented state-of-the-art front-end solutions exceeding strategic objectives, enhancing user experience and client satisfaction.
-Expertise in Redux for efficient state management and application performance.
-Proficient in Git for streamlined collaboration and version control.
-Strong advocate for clean code and seamless integration with back-end systems.
-📚 Interests: Apart from coding, I indulge in sci-fi literature, captivating TV series, and staying fit with a regular gym routine.
+* Implemented state-of-the-art front-end solutions exceeding strategic objectives, enhancing user experience and client satisfaction.
+* Expertise in Redux for efficient state management and application performance.
+* Proficient in Git for streamlined collaboration and version control.
+* Strong advocate for clean code and seamless integration with back-end systems.
+  
+📚 Interests: Apart from coding, I indulge in sci-fi literature, captivating TV series, and staying fit with a regular gym routine. 
 
-💬 Languages: English, Polish
+🌍 Passionate Traveler: I love exploring new destinations and cultures, capturing my adventures through travel photography. Follow my journeys on [Instagram](https://www.instagram.com/spoznionepodroze.pl/) 📸
 
-🔗 Connect: Reach out on [LinkedIn](https://www.linkedin.com/in/s-zajaczkowski/) or explore my projects on GitHub.
+### 💬 Languages: 
+English, Polish
+
+### 🔗 Connect: 
+Reach out on [LinkedIn](https://www.linkedin.com/in/s-zajaczkowski/) or explore my projects on GitHub.
 
 
 
