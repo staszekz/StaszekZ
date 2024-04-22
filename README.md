@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
 
-I am Front-End Developer with a PhD :)  
+I am React Front-End Developer with a PhD :)  
 
 
 Here are some ideas to get you started:
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img align="left" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<!-- <img align="left" alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
 <!-- <img align="left" alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
 
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a> -->
 
-### :headphones: Apple Music Playing now:
+<!-- ### :headphones: Apple Music Playing now:-->
 
 
 
