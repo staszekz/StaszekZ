@@ -1,5 +1,3 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there ! 
-
 🚀 Passionate React Developer | TypeScript Enthusiast
 
 👋 Hey there! I'm Stanislaw Zajaczkowski, a React Developer, specializing in building scalable and interactive web applications with TypeScript and React. :globe_with_meridians: Website: www.staszek.ovh
@@ -20,7 +18,8 @@ Strong advocate for clean code and seamless integration with back-end systems.
 
 💬 Languages: English, Polish
 
-🔗 Connect: Reach out on <a href="https://www.linkedin.com/in/s-zajaczkowski/" target="_blank" rel="noreferrer nofollow"> <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  or explore my projects on GitHub.
+🔗 Connect: Reach out on [LinkedIn](https://www.linkedin.com/in/s-zajaczkowski/) or explore my projects on GitHub.
+
 
 
 ### :fire: Tech Stack: <br/>
@@ -48,9 +47,9 @@ Strong advocate for clean code and seamless integration with back-end systems.
 
 
 
-## :fire: Stats: <br/>
+<!--## :fire: Stats: <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
+<br/><br/> -->
 ## 🔥 DevCard: <br/>
 <a href="https://app.daily.dev/Staszek"><img src="https://github.com/staszekz/staszekz/blob/master/devcard.svg" width="400" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
 <br/><br/>
