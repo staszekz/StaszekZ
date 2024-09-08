@@ -3,10 +3,10 @@
 👋 Hey there! I'm Stanislaw Zajaczkowski, a React Developer, specializing in building scalable and interactive web applications with TypeScript and React. :globe_with_meridians: Website: www.staszek.ovh
 
 ### 🔧 Technologies: 
-React, TypeScript, Cypress, Next.js, JavaScript, HTML, CSS
+`React`  `TypeScript`  `Tanstackverse`  `Cypress`  `Next.js`  `JavaScript`  `HTML`  `CSS`
 
 ### 🌱 Currently Learning: 
-Delving deeper into TypeScript and React, exploring advanced concepts for optimized application development. Also sharpening my testing prowess with React Testing Library & Cypress.
+Delving deeper into `TypeScript` and `React`, exploring advanced concepts for optimized application development. Also sharpening my testing prowess with `React Testing Library` & `Cypress`.
 
 ### 🤝 Collaboration: 
 Proven track record of driving team synergy and productivity through cross-functional collaboration in agile environments.
