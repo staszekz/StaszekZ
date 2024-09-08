@@ -61,7 +61,7 @@ Reach out on [LinkedIn](https://www.linkedin.com/in/s-zajaczkowski/) or explore 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staszekz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/> -->
 ## 🔥 DevCard: <br/>
-<a href="https://app.daily.dev/staszek754"><img src="https://api.daily.dev/devcards/v2/PjzRDBhyg4EAWK3acBre7.png?type=wide&r=vau" width="652" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
+<a href="https://app.daily.dev/staszek754"><img src="https://api.daily.dev/devcards/v2/PjzRDBhyg4EAWK3acBre7.png?type=wide&r=z81" width="652" alt="Stanislaw Zajaczkowski's Dev Card"/></a>
 ## :fire: Languages: <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staszekz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
