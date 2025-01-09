@@ -1,4 +1,4 @@
-## 🚀 Passionate React Developer | TypeScript Enthusiast
+## 🚀 Passionate Typescript React Developer | Tanstack Universe Enthusiast
 
 👋 Hey there! I'm Stanislaw Zajaczkowski, a React Developer, specializing in building scalable and interactive web applications with TypeScript and React. :globe_with_meridians: Website: www.staszek.ovh
 
